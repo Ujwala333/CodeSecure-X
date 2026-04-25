@@ -1,0 +1,51 @@
+{
+  "scans": [
+    {
+      "id": "69c025072122b7417ea8b3de",
+      "user_id": "None"
+    },
+    {
+      "id": "69c024e72122b7417ea8b3dd",
+      "user_id": "None"
+    },
+    {
+      "id": "69c024b32122b7417ea8b3dc",
+      "user_id": "None"
+    },
+    {
+      "id": "69c024772122b7417ea8b3db",
+      "user_id": "None"
+    },
+    {
+      "id": "69c024372122b7417ea8b3da",
+      "user_id": "None"
+    }
+  ],
+  "reports": [
+    {
+      "id": "69c022a554fcbcdf660a6364",
+      "user_id": "None",
+      "scan_id": "69c022a154fcbcdf660a6363"
+    },
+    {
+      "id": "69c01dfd4e3a21ec32432281",
+      "user_id": "None",
+      "scan_id": "69c01df34e3a21ec32432280"
+    },
+    {
+      "id": "69c018b0d77e7e6a6086e824",
+      "user_id": "None",
+      "scan_id": "69c01894d77e7e6a6086e823"
+    },
+    {
+      "id": "69bc351bc6a00a172c4090d6",
+      "user_id": "None",
+      "scan_id": "69bc3516c6a00a172c4090d5"
+    },
+    {
+      "id": "69b7a7977c00b6c0e4b67f42",
+      "user_id": "None",
+      "scan_id": "69b7a7887c00b6c0e4b67f41"
+    }
+  ]
+}
